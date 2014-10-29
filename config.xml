@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns		= "http://www.w3.org/ns/widgets"
+	xmlns:gap	= "http://phonegap.com/ns/1.0"
+	id		= "com.dsu.uploads"
+	version 	= "1.0.0">
+
+	<name>DSU</name>
+
+	<description>
+		A template for getting started with PhoneGap development and build.phonegap.com
+	</description>
+	<author href="http://isaacweathers.net"
+		email="isaac@isaacweathers.net">
+		Isaac Weathers
+	</author>
+	<icon src="icon.png" gap:role="default" />
+	<preference name="orientation" value="portrait" />
+</widget>
